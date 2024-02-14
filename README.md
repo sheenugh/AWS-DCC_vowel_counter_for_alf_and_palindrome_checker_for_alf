@@ -5,5 +5,5 @@ This repository is for DCC Day 5 PythonQuest.
 #
 # This repository consists of two programs: 
 # Program 1 - Vowel Counter (uppercase and lowercase)
-# Program 2 - Checking the string if palindrome or not
+# Program 2 - Checking The String If Palindrome or Not
 
